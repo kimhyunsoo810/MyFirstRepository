@@ -34,7 +34,8 @@
 
 
 ## 9주차 과제
-<src="./Png/캡스톤디자인9주차_19173070김현수.hwp"></src>
+소스코드 작성한 파일은 학교lms 과제제출창에 첨부하였습니다!
+결과물
 <img width="" height="" src="./Png/캡스톤9주1.png "></img>
 <img width="" height="" src="./Png/캡스톤9주2.png "></img>
 <img width="" height="" src="./Png/캡스톤9주3(1넓이).png "></img>
